@@ -1,0 +1,2 @@
+# CADDI-An-in-Class-Activity-Detection-Dataset-using-IMU-data-from-low-cost-sensors
+This repository contains a Python script (dataframe_generator.py) that processes sensor data from JSON files and generates a structured pandas DataFrame. The script is designed to work with accelerometer, gyroscope, and rotation vector data, as well as visual data from two cameras. It provides the code to load, process, and visualize this data.
